@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phani-gaddam
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Machine Learning Methods
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : work.gp.teja@gmail.com
 
